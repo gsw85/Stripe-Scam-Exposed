@@ -9,3 +9,4 @@ I recently started my first AI-based startup, providing image processing service
 
 While looking for a payment processor, Stripe approached me. After consulting with their representatives, Stripe proposed their gateway to me (see attached pic). I set up my account and had a Stripe representative check through it, receiving assurance from Stripe that everything was in order.
 
+![Communication with stripe](https://github.com/gsw85/Stripe-Scam-Exposed/blob/main/proof/2024-06-sw/stripe_1.png)
