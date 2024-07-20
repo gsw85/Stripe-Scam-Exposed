@@ -47,3 +47,4 @@ Stripe is a real scam company.
 My records show that I do not have any disputes and no problems on my client's side.
 Despite this, they have withheld my earnings and stopped responding to my inquiries.
 
+Welcome to add your experience here
